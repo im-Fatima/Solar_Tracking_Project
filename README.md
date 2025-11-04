@@ -34,7 +34,7 @@ This project implements a **one-axis solar panel tracker** that uses Digital Sig
 ### Hardware Setup
 | Arduino UNO | PCA9685 Driver | MG996R Servo |
 |-------------|----------------|--------------|
-| ![Arduino UNO](assets/images/arduino_r3.jpg) | ![PCA9685](assets/images/pca9685.jpg) | ![Servo](assets/images/servo_mg996r.jpg) |
+| ![Arduino UNO]([assets/images/arduino_r3.jpg](https://electrobes.com/wp-content/uploads/2019/10/arduino-uno-r3-smd-board-cable-for-arduino-uno-at-best-price-in-pakistan.jpg?v=1695312743)) | ![PCA9685](assets/images/pca9685.jpg) | ![Servo](assets/images/servo_mg996r.jpg) |
 
 ### Solar Panel on Stand
 ![Solar Panel on Stand](assets/images/panel_stand.jpg)
